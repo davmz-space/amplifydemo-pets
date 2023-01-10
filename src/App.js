@@ -1,6 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 
+/**
+ * Returns the App Component.
+ * 
+ * @returns The App Component.
+ */
 function App() {
   return (
     <div className="App">
